@@ -1,3 +1,5 @@
 void main() {}
 
-class Shape {}
+class Shape {
+  int sides = 0;
+}
