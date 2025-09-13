@@ -2,6 +2,7 @@ void main() {
   var shape = Shape();
   shape.display();
   var circle = Circle();
+  print(circle.sides);
   circle.area();
 }
 
